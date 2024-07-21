@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://5gbdinternet.xyz/api/authentication';
 API_KEY='@@@PANEL123';
-DOMAIN=1ljn.5gbdinternet.xyz
-NS=p5hx.5gbdinternet.xyz
+DOMAIN=3t4r.5gbdinternet.xyz
+NS=fd2o.5gbdinternet.xyz
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
